@@ -1,0 +1,16 @@
+
+
+:root {
+	--color-primary:  #f5f6e4;
+	--color-secondary:  #7493ab ;
+	
+    --font-family-primary: 'monospace';
+	--font-family-secondary:'Courier';
+    
+	--font-size-xsmall: 0.7rem;
+	--font-size-small: 1rem;
+	--font-size-medium: 1.5rem;
+	--font-size-large: 2.5rem;
+
+     
+} 
