@@ -12,6 +12,7 @@ To answer the assignment i`ve made a clean, minimalistic page consisting of
 you will get a link on the "back" for you to click for accessing the actual 
 site of the diffrent companies.
 
-I`ve played with animation...
 
-Referans:
+Referans to flipp card: 
+https://www.youtube.com/watch?v=MkYJIE6iUmE)https://www.youtube.com/watch?v=MkYJIE6iUmE
+https://developer.mozilla.org/en-US/docs/Web/CSS/animation
